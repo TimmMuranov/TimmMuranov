@@ -5,5 +5,5 @@
 - ----------
 - ✉️☎️ My communication:
 - My phone +7 911 838 78 54
-- My mail muranovtim@gmail.com
+- Мail muranovtim@gmail.com
 - 
