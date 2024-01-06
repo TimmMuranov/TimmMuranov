@@ -39,9 +39,7 @@
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="html5" alt="html5" width="40" height="40"/>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="html5" alt="html5" width="40" height="40"/>
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="html5" alt="html5" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" title="html5" alt="html5" width="40" height="40"/>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg" title="html5" alt="html5" width="40" height="40"/>
 
