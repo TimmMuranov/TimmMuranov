@@ -23,7 +23,7 @@
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" title="html5" alt="html5" width="40" height="40"/>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg" title="html5" alt="html5" width="40" height="40"/>
+<img src="https://avatars.mds.yandex.net/i?id=22c48204b16b157623f0f62500300b63_l-5231737-images-thumbs&n=13" title="html5" alt="html5" width="40" height="40"/>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="html5" alt="html5" width="40" height="40"/>
 
