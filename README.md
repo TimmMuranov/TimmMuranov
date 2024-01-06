@@ -1,8 +1,8 @@
 # 👋 Всем Hi, I’m Тимофей. 
 ### Немного обо мне:
-#### На протяжении моего обучения, я сменил около 6 школ, в основном музыкального направления. Паралельно с музыкой, я постоянно изучал всё, что поможет достичь электронного и технического совершенства. На протяжении 4 лет изучал различные ЯП и нестандартные механизмы. 
+#### На протяжении моего обучения я сменил около 6 школ, в основном музыкального направления. Параллельно с музыкой, я постоянно изучал всё, что поможет достичь электронного и технического совершенства. На протяжении 4 лет изучал различные ЯП и нестандартные механизмы. 
 ### - Достиг успехов в программировании МК на базе arduino (nano, uno и esp8266). Имеется несколько проектов, таких, как:
-#### майнер duino coin - ов на базе esp8266, 
+#### майнер duino coin-ов на базе esp8266, 
 #### стол мини 3d принтера на щеточных моторах (с авторской прошивкой движения стола под управлением джойстика)
 #### безмониторные часы, показывающие время "в воздухе", работающие по принципу  вращающихся голографических дисплеев.
 ### - Также достиг определенного успеха в подъеме и администрировании серверов. В часности: 
@@ -24,9 +24,27 @@
 
 ### Также мне можно написать сюда: [![Telegram Badge](https://img.shields.io/badge/-MuranovTim-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/TimMuranov) [![Gmail Badge](https://img.shields.io/badge/-Gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:muranovtim@gmail.com)
 
-### Знакомые мне технологии:
+### Знакомые мне инструменты и технологии
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>
+
 <img src="https://github.com/devicons/devicon/blob/master/icons%2Farduino%2Farduino-original-wordmark.svg" title="html5" alt="html5" width="40" height="40"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg" title="html5" alt="html5" width="40" height="40"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="html5" alt="html5" width="40" height="40"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg" title="html5" alt="html5" width="40" height="40"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="html5" alt="html5" width="40" height="40"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="html5" alt="html5" width="40" height="40"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="html5" alt="html5" width="40" height="40"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg" title="html5" alt="html5" width="40" height="40"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="html5" alt="html5" width="40" height="40"/>
+
 </div> 
