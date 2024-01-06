@@ -22,8 +22,8 @@
     </a>
   </div>
 
-:mailbox: также можно написать сюда
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto: muranovtim@gmail.com)
+### также можно написать сюда
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto: muranovtim@gmail.com)]
 
 ### Знакомые мне технологии:
 
