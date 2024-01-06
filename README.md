@@ -12,6 +12,9 @@
 
 ### Знакомые мне инструменты и технологии
 
+
+<img src="https://raw.githubusercontent.com/gist/Mr-Magnificent/2a3bd3a844f425f6b6800a30b2408da8/raw/fcb9260cba6664b309579557714e0fc64ee3893f/ISO_C%2B%2B_Logo.svg" title="html5" alt="html5" width="40" height="40"/>
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>
 
@@ -22,8 +25,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="html5" alt="html5" width="40" height="40"/>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" title="html5" alt="html5" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/gist/Mr-Magnificent/2a3bd3a844f425f6b6800a30b2408da8/raw/fcb9260cba6664b309579557714e0fc64ee3893f/ISO_C%2B%2B_Logo.svg" title="html5" alt="html5" width="40" height="40"/>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="html5" alt="html5" width="40" height="40"/>
 
