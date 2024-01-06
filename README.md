@@ -9,6 +9,26 @@
 #### поднял облачное хранилище на базе debian (OpenMediaVault).
 #### знаком с несколькими серверными инструментами, такими, как compose,  tailscale, nextcloud, RAID и SMART. 
 ### В данный момент я учусь в 10 классе ГБОУ "Тутти". 
+
+### Знакомые мне инструменты и технологии
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons%2Farduino%2Farduino-original-wordmark.svg" title="html5" alt="html5" width="40" height="40"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg" title="html5" alt="html5" width="40" height="40"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="html5" alt="html5" width="40" height="40"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" title="html5" alt="html5" width="40" height="40"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg" title="html5" alt="html5" width="40" height="40"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="html5" alt="html5" width="40" height="40"/>
+
+</div> 
+
 ## Я в интернете:
   <div id="badges">
     <a href="https://t.me/TimMuranov" target="_blank">
@@ -24,25 +44,4 @@
 
 ### Также мне можно написать сюда: [![Telegram Badge](https://img.shields.io/badge/-MuranovTim-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/TimMuranov) [![Gmail Badge](https://img.shields.io/badge/-Gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:muranovtim@gmail.com)
 
-### Знакомые мне инструменты и технологии
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>
-
-<img src="https://github.com/devicons/devicon/blob/master/icons%2Farduino%2Farduino-original-wordmark.svg" title="html5" alt="html5" width="40" height="40"/>
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg" title="html5" alt="html5" width="40" height="40"/>
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="html5" alt="html5" width="40" height="40"/>
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg" title="html5" alt="html5" width="40" height="40"/>
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="html5" alt="html5" width="40" height="40"/>
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" title="html5" alt="html5" width="40" height="40"/>
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg" title="html5" alt="html5" width="40" height="40"/>
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="html5" alt="html5" width="40" height="40"/>
-
-</div> 
