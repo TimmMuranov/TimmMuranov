@@ -22,12 +22,14 @@
     </a>
   </div>
 
+:mailbox: также можно написать сюда
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto: muranovtim@gmail.com)
 
 ### Знакомые мне технологии:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>
-
-
+#### html5
 <img src="https://github.com/devicons/devicon/blob/master/icons%2Farduino%2Farduino-original-wordmark.svg" title="html5" alt="html5" width="40" height="40"/>
-</div> html5
+</div> 
+#### arduino
