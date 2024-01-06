@@ -2,11 +2,9 @@
 - ----------
 - 👀 I’m interested in music electronic and sport (skateing)
 - 🌱 I’m currently learning in Rimskiy-Korsakov's Secondary Special Music School
-- ----------
 - ✉️☎️ My communication:
 - My phone +7 911 838 78 54
 - Мail muranovtim@gmail.com
-------------
 I'm on the Internet:
 https://youtube.com/@user-ym5hj4gl8y
 
