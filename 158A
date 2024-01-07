@@ -26,4 +26,4 @@ for (int x = 0; x < n; x++){
 cout << result << endl;
 
     return 0;
-}
+} 
