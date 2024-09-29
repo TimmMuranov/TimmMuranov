@@ -63,3 +63,4 @@ debian, slax, tails, miniOS, OMV, ubuntu и kali а так же arch, android и
 ### А также здесь: 
 [![Telegram Badge](https://img.shields.io/badge/-MuranovTim-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/TimMuranov) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:muranovtim@gmail.com)
+
