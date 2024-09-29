@@ -1,4 +1,4 @@
- # 👋 Всем Hi, I’m Тимофей.
+# 👋 Всем Hi, I’m Тимофей.
 ![snake](https://github.com/TimmMuranov/TimmMuranov/blob/output/github-contribution-grid-snake.svg)
 
 
