@@ -24,8 +24,9 @@ debian, slax, tails, miniOS, OMV, ubuntu и kali а так же arch, android и
 ### Мои увлечения👩‍🎤 
 #### Занимаюсь музыкой. Играю на тромбоне и фортепиано.
 #### увлекаюсь настольным теннисом.
-#### увлекаюсь Компьютерными играми
-<img src="https://static.wikia.nocookie.net/terraria-calamity-mod/images/6/6e/Calamity-logo.png/revision/latest?cb=20230807142838&path-prefix=ru">
+#### Компьютерные игры:
+<img src="https://static.wikia.nocookie.net/terraria-calamity-mod/images/6/6e/Calamity-logo.png/revision/latest?cb=20230807142838&path-prefix=ru"><p>
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.dL-jBq6N-6hNG_BJbLemRQHaF8%26pid%3DApi&f=1&ipt=587715ebccf7288fbcd21ab33060620eee3510302ad51d97f973df72ee1a60e2&ipo=images">
 Йоингом (от слова ЙоЙо), катаюсь на всём, что движется.
 ### В данный момент я учусь на первом курсе МГИМ им. Шнитке - московском музыкальном училище. 
 
