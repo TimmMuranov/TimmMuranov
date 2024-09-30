@@ -43,15 +43,16 @@ debian, slax, tails, miniOS, OMV, ubuntu и kali а так же arch, android и
 <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="html5" alt="html5" width="40" height="40"/>
 
 </div><hr>
-### Мои увлечения и в целом👩‍🎤 
-#### Занимаюсь музыкой. Играю на тромбоне и фортепиано.
-#### увлекаюсь настольным теннисом.
-#### ОБОЖАЮ
+<h2>Мои увлечения и в целом👩‍🎤</h2>
+<h4>Занимаюсь музыкой: играю на тромбоне и фортепиано.</h4><p>
+<h4>Увлекаюсь настольным теннисом.
+</h4><p>
+<h4>ОБОЖАЮ</h4>
 <img src="https://static.wikia.nocookie.net/terraria-calamity-mod/images/6/6e/Calamity-logo.png/revision/latest?cb=20230807142838&path-prefix=ru"><p>
 
 Занимаюсь Йоингом (ну, кручу ЙоЙо). 
 <hr>
-## Я в интернете🤙
+<h2>Я в интернете🤙</h2>
   <div id="badges">
     <a href="https://t.me/TimMuranov" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
@@ -64,7 +65,7 @@ debian, slax, tails, miniOS, OMV, ubuntu и kali а так же arch, android и
     </a>
   </div>
 
-### А также здесь👋
+<h2>А также здесь👋</h2>
 [![Telegram Badge](https://img.shields.io/badge/-MuranovTim-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/TimMuranov) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:muranovtim@gmail.com)
 
