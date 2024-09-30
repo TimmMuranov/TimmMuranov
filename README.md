@@ -2,10 +2,14 @@
 ![snake](https://github.com/TimmMuranov/TimmMuranov/blob/output/github-contribution-grid-snake.svg)
 
 <h2>Немного обо мне</h2>
-<h4>Сменил около 6 школ, в основном музыкального направления. В IT я самоучка</h4> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> <h4>Всегда могу найти общий язвк с коллегами по учебе/работе и готов учиться новому.</h4>
+<h4>Родной город - Санкт-Петербург</h4>
+<h4>В IT - самоучка</h4> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"><p>
+
 <hr>
-### МК - ONE LOVE❤️
-#### Работал с такими устройствами, как: arduino nano, uno и тд.; 
+
+<h2>МК - ONE LOVE❤️</h2>
+<h4>Работал с такими устройствами, как</h4>: 
+arduino nano, uno, micro, pro mini,.. 
 #### Работал с такими микроконтроллерами, как: esp(8266, 32); atmega(168, 328); attiny(85, 13, 13a, 10);
 
 #### Работан в таких программах, как arduinoIDE, AVR studio (4, 5 и 7 версии),  CodeBlocks. Также работал голым компилятором GCC.
