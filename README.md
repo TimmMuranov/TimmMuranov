@@ -1,10 +1,10 @@
 # 👋 Всем Hi, I’m Тимофей.
 ![snake](https://github.com/TimmMuranov/TimmMuranov/blob/output/github-contribution-grid-snake.svg)
-
+<hr>
 
 <h2>Немного обо мне</h2>
 <h4>Сменил около 6 школ, в основном музыкального направления. В IT я самоучка</h4> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> <h4>Всегда могу найти общий язвк с коллегами по учебе/работе и готов учиться новому.</h4>
-
+<hr>
 ### МК - ONE LOVE❤️
 #### Работал с такими устройствами, как: arduino nano, uno и тд.; 
 #### Работал с такими микроконтроллерами, как: esp(8266, 32); atmega(168, 328); attiny(85, 13, 13a, 10);
@@ -21,17 +21,7 @@
 #### знаком с такими серверными инструментами, как: compose,  tailscale, nextcloud, RAID и SMART. Диски и хранилища размечаю вручную.
 #### Работал на десятке дистрибутивов linux, в основном базирующихся на debian:
 debian, slax, tails, miniOS, OMV, ubuntu и kali а так же arch, android и miui.
-### Мои увлечения и в целом👩‍🎤 
-#### Занимаюсь музыкой. Играю на тромбоне <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.explicit.bing.net%2Fth%3Fid%3DOIP.axlCjNKMebfZVTMYLiljyAHaGe%26pid%3DApi&f=1&ipt=1779eb0e169b4777af109ad7da510f651718811242a5022a932e9c24c9f38819&ipo=images"> и фортепиано.
-#### увлекаюсь настольным теннисом.
-#### Компьютерные игры:
-<img src="https://static.wikia.nocookie.net/terraria-calamity-mod/images/6/6e/Calamity-logo.png/revision/latest?cb=20230807142838&path-prefix=ru"><p>
-
-Йоингом (от слова ЙоЙо), катаюсь на всём, что движется.
-### В данный момент я учусь на первом курсе МГИМ им. Шнитке - московском музыкальном училище. 
-
-### Знакомые мне инструменты и технологии
-
+<hr>
 <div>
 
 <img src="https://raw.githubusercontent.com/gist/Mr-Magnificent/2a3bd3a844f425f6b6800a30b2408da8/raw/fcb9260cba6664b309579557714e0fc64ee3893f/ISO_C%2B%2B_Logo.svg" title="html5" alt="html5" width="40" height="40"/>
@@ -48,8 +38,15 @@ debian, slax, tails, miniOS, OMV, ubuntu и kali а так же arch, android и
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="html5" alt="html5" width="40" height="40"/>
 
-</div> 
+</div><hr>
+### Мои увлечения и в целом👩‍🎤 
+#### Занимаюсь музыкой. Играю на тромбоне и фортепиано.
+#### увлекаюсь настольным теннисом.
+#### ОБОЖАЮ
+<img src="https://static.wikia.nocookie.net/terraria-calamity-mod/images/6/6e/Calamity-logo.png/revision/latest?cb=20230807142838&path-prefix=ru"><p>
 
+Занимаюсь Йоингом (ну, кручу ЙоЙо). 
+<hr>
 ## Я в интернете🤙
   <div id="badges">
     <a href="https://t.me/TimMuranov" target="_blank">
