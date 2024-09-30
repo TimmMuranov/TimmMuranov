@@ -1,6 +1,5 @@
 # 👋 Всем Hi, I’m Тимофей.
 ![snake](https://github.com/TimmMuranov/TimmMuranov/blob/output/github-contribution-grid-snake.svg)
-<hr>
 
 <h2>Немного обо мне</h2>
 <h4>Сменил около 6 школ, в основном музыкального направления. В IT я самоучка</h4> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> <h4>Всегда могу найти общий язвк с коллегами по учебе/работе и готов учиться новому.</h4>
@@ -21,7 +20,6 @@
 #### знаком с такими серверными инструментами, как: compose,  tailscale, nextcloud, RAID и SMART. Диски и хранилища размечаю вручную.
 #### Работал на десятке дистрибутивов linux, в основном базирующихся на debian:
 debian, slax, tails, miniOS, OMV, ubuntu и kali а так же arch, android и miui.
-<hr>
 <div>
 
 <img src="https://raw.githubusercontent.com/gist/Mr-Magnificent/2a3bd3a844f425f6b6800a30b2408da8/raw/fcb9260cba6664b309579557714e0fc64ee3893f/ISO_C%2B%2B_Logo.svg" title="html5" alt="html5" width="40" height="40"/>
