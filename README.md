@@ -50,7 +50,7 @@ debian, slax, tails, miniOS, OMV, ubuntu и kali а так же arch, android и
 <h4>ОБОЖАЮ</h4>
 <img src="https://static.wikia.nocookie.net/terraria-calamity-mod/images/6/6e/Calamity-logo.png/revision/latest?cb=20230807142838&path-prefix=ru"><p>
 
-Занимаюсь Йоингом (ну, кручу ЙоЙо). 
+Занимаюсь Йоингом 🪀🪀🪀<p>
 <hr>
 <h2>Я в интернете🤙</h2>
   <div id="badges">
