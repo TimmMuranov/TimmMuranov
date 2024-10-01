@@ -1,7 +1,7 @@
 # 👋 Всем Hi, I’m Тимофей.
 ![snake](https://github.com/TimmMuranov/TimmMuranov/blob/output/github-contribution-grid-snake.svg)
 
-
+<!--пока не работает...-->
 <div style="float: left; height: 10px; width: 10px; margin: 2px; background-color: gray"></div>
 
 <div style="float: left; height: 10px; width: 10px; margin: 2px; background-color: #84FF84"></div>
