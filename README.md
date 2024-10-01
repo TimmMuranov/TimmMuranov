@@ -1,6 +1,15 @@
 # 👋 Всем Hi, I’m Тимофей.
 ![snake](https://github.com/TimmMuranov/TimmMuranov/blob/output/github-contribution-grid-snake.svg)
-
+<style>
+.square {float: left; height: 10px; width: 10px; margin: 2px;}
+</style>
+</head>
+<body>
+<div class="square" style="background-color: gray"></div>
+<div class="square" style="background-color: #84FF84"></div>
+<div class="square" style="background-color: #53ec53"></div>
+<div class="square" style="background-color: #00BC00"></div>
+<div class="square" style="background-color: #008F00"></div>
 <h2>Немного обо мне</h2>
 <h4>Родной город - Санкт-Петербург</h4>
 <h4>В IT - самоучка<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"></h4><p>
