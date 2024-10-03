@@ -5,6 +5,7 @@
 <h4>Родной город - Санкт-Петербург</h4>
 <h4>В IT - самоучка<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"></h4>
 <h2>Но могу назвать себя техно гиком</h2>
+<img src="hacker.jpg">
 <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fru.123rf.com%2Fphoto_64068556_the-skeleton-programmer-in-virtual-reality%2C-pop-art-retro-vector-illustration.-work-on-the-computer-and-games.-humorous-concept-of-engagement-in-new-technologies.html&psig=AOvVaw1JaJKe3EFHs6hjWp0CGwSb&ust=1728062878535000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjArILe8ogDFQAAAAAdAAAAABAE">
 <hr>
 
