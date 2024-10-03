@@ -1,11 +1,11 @@
 # 👋 Всем Hi, I’m Тимофей.
 ![snake](https://github.com/TimmMuranov/TimmMuranov/blob/output/github-contribution-grid-snake.svg)
 <link rel="stylesheet" href="githubStyles.css">
-<div class="1"></div>
-<div class="2"></div>
-<div class="3"></div>
-<div class="4"></div>
-<div class="5"></div>
+<div class="1">1</div>
+<div class="2">2</div>
+<div class="3">3</div>
+<div class="4">4</div>
+<div class="5">5</div>
 
 <h2>Немного обо мне</h2>
 <h4>Родной город - Санкт-Петербург</h4>
