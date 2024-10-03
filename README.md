@@ -1,5 +1,5 @@
 # 👋 Всем Hi, I’m Тимофей.
-![snake](https://github.com/TimmMuranov/TimmMuranov/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/TimmMuranov/TimmMuranov/blob/output/github-contribution-grid-snake.gif)
 
 
 ### Немного обо мне:
