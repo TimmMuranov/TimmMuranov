@@ -8,7 +8,6 @@
 <h2>Но могу назвать себя техно гиком</h2>
 <img src="hacker.jpg">
 <hr>
-<button onclick = "alert("hi");">hi</button>
 
 <h2>МК - ONE LOVE❤️</h2>
 <h4>Работал с такими устройствами, как:</h4> 
