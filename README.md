@@ -1,4 +1,3 @@
-<button>1</button>
 # 👋 Всем Hi, I’m Тимофей.<p>
 *заклинатель змей
 ![snake](https://github.com/TimmMuranov/TimmMuranov/blob/output/github-contribution-grid-snake.svg)
