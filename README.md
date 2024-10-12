@@ -41,7 +41,7 @@ debian, slax, tails, miniOS, OMV, ubuntu и kali а так же arch, android и
 <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="html5" alt="html5" width="40" height="40"/>
 
 </div><hr>
-<h2>Мои увлечения и в целом👩‍🎤</h2>
+<h2>Мои увлечения👩‍🎤</h2>
 <h4>Занимаюсь музыкой: играю на тромбоне и фортепиано.</h4><p>
 <h4>Увлекаюсь настольным теннисом.
 </h4><p>
