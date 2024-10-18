@@ -5,7 +5,6 @@
 <h2>Немного обо мне</h2>
 <h4>Родной город - Санкт-Петербург</h4>
 <h4>В IT - самоучка<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"></h4>
-<h2>Но могу назвать себя техно гиком</h2>
 <img src="hacker.jpg">
 <hr>
 
@@ -16,7 +15,7 @@ esp(8266, 32);<p>
 <h4>А также с голыми камнями</h4><p>
 attiny13, stm32.
 
-#### Работал в таких программах, как arduinoIDE, AVR studio (4, 5 и 7 версии),  CodeBlocks. Также работал голым компилятором GCC.
+#### Работал в таких программах, как arduinoIDE, AVR studio (4, 5 и 7 версии),  CodeBlocks. Также работал c компилятором GCC.
 ### Мои проекты
 #### мини-сервер на esp8266
 #### Майнер duino coin-ов на базе esp8266 
