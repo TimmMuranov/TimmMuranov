@@ -2,7 +2,7 @@ name: Update Stats
 
 on:
   schedule:
-    - cron: '0 * * * *' # Запускается каждый час
+    - cron: '0 * * * *' # каждый час
   workflow_dispatch:
 
 jobs:
@@ -16,12 +16,12 @@ jobs:
       - name: Update README
         run: |
           GITHUB_USERNAME="TimmMuranov"
-
-          # Создаем URL для статуса
+          
           STATS_URL="https://github-readme-stats.vercel.app/api?username=${GITHUB_USERNAME}&show_icons=true&theme=merko&bg_color=00000000&hide_border=true&locale=ru"
           STREAK_URL="https://streak-stats.demolab.com?user=${GITHUB_USERNAME}&theme=merko&hide_border=true&locale=ru&date_format=j%2Fn%5B%2FY%5D&background=00000000"
-
-          # Обновляем README.md
+          
+          sed -i '/## Статистика/,/![](/d' README.md || true
+          
           echo "## Статистика" >> README.md
           echo "![](${STATS_URL})" >> README.md
           echo "![](${STREAK_URL})" >> README.md
