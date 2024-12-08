@@ -1,8 +1,8 @@
-name: Stats
+name: Update Stats
 
 on:
   schedule:
-    - cron: '0 * * * *' # каждый час
+    - cron: '0 * * * *' # Запускается каждый час
   workflow_dispatch:
 
 jobs:
@@ -13,7 +13,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Generate stats badge
+      - name: Update README
         run: |
           # Замените на ваш логин GitHub
           GITHUB_USERNAME="Ваш_логин"
@@ -22,35 +22,15 @@ jobs:
           STATS_URL="https://github-readme-stats.vercel.app/api?username=${GITHUB_USERNAME}&show_icons=true&theme=merko&bg_color=00000000&hide_border=true&locale=ru"
           STREAK_URL="https://streak-stats.demolab.com?user=${GITHUB_USERNAME}&theme=merko&hide_border=true&locale=ru&date_format=j%2Fn%5B%2FY%5D&background=00000000"
 
-          # Сохраняем ссылки в переменных окружения
-          echo "::set-output name=stats_url::$STATS_URL"
-          echo "::set-output name=streak_url::$STREAK_URL"
+          # Обновляем README.md
+          echo "## Статистика" >> README.md
+          echo "![](${STATS_URL})" >> README.md
+          echo "![](${STREAK_URL})" >> README.md
 
-      - name: Create badges
-        env:
-          STATS_URL: ${{ steps.generate-stats.outputs.stats_url }}
-          STREAK_URL: ${{ steps.generate-stats.outputs.streak_url }}
+      - name: Commit changes
         run: |
-          echo "![Stats]($STATS_URL)" > stats_badge.md
-          echo "![Streak]($STREAK_URL)" > streak_badge.md
-
-      - name: Upload artifacts
-        uses: actions/upload-artifact@v3
-        with:
-          name: badges
-          path: |
-            stats_badge.md
-            streak_badge.md
-
-      - name: Download artifacts
-        if: github.event_name != 'push'
-        uses: actions/download-artifact@v3
-        with:
-          name: badges
-
-      - name: Include badges in README
-        if: github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
-        run: |
-          echo "# Статистика" >> README.md
-          cat stats_badge.md >> README.md
-          cat streak_badge.md >> README.md
+          git config --local user.email "your_email@example.com"
+          git config --local user.name "Your Name"
+          git add README.md
+          git commit -m "Обновление статистики"
+          git push
