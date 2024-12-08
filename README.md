@@ -1,6 +1,7 @@
 # 👋 Всем Hi, I’m Тимофей.<p>
 ![snake](https://github.com/TimmMuranov/TimmMuranov/blob/output/github-contribution-grid-snake.svg)
 ![GitHub Stats]
+<p>
 ![Streak Stats]
 
 <h2>Немного обо мне</h2>
