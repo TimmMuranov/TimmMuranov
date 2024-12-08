@@ -2,7 +2,7 @@ name: Update Stats
 
 on:
   schedule:
-    - cron: '0 */24 * * *' # Запускается каждые 24 часа
+    - cron: '0 * * * *' # Запускается каждый час
   workflow_dispatch:
 
 jobs:
@@ -16,21 +16,20 @@ jobs:
       - name: Update README
         run: |
           # Замените на ваш логин GitHub
-          GITHUB_USERNAME="TimmMuranov"
+          GITHUB_USERNAME="Ваш_логин"
 
           # Создаем URL для статуса
           STATS_URL="https://github-readme-stats.vercel.app/api?username=${GITHUB_USERNAME}&show_icons=true&theme=merko&bg_color=00000000&hide_border=true&locale=ru"
           STREAK_URL="https://streak-stats.demolab.com?user=${GITHUB_USERNAME}&theme=merko&hide_border=true&locale=ru&date_format=j%2Fn%5B%2FY%5D&background=00000000"
 
-          # Обновляем README.md
-          echo "## Статистика" >> README.md
-          echo "![](${STATS_URL})" >> README.md
-          echo "![](${STREAK_URL})" >> README.md
+          # Обновляем README.md, заменяя старые ссылки на новые
+          sed -i.bak "s|!\[GitHub Stats\].*|![GitHub Stats](${STATS_URL})|g" README.md || echo "![GitHub Stats](${STATS_URL})" >> README.md
+          sed -i.bak "s|!\[Streak Stats\].*|![Streak Stats](${STREAK_URL})|g" README.md || echo "![Streak Stats](${STREAK_URL})" >> README.md
 
       - name: Commit changes
         run: |
           git config --local user.email "your_email@example.com"
           git config --local user.name "Your Name"
           git add README.md
-          git commit -m "Обновление статистики"
+          git commit -m "Обновление статистики" || echo "Нет изменений для коммита"
           git push
