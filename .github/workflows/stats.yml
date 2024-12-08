@@ -15,8 +15,7 @@ jobs:
 
       - name: Update README
         run: |
-          # Замените на ваш логин GitHub
-          GITHUB_USERNAME="Ваш_логин"
+          GITHUB_USERNAME="TimmMuranov"
 
           # Создаем URL для статуса
           STATS_URL="https://github-readme-stats.vercel.app/api?username=${GITHUB_USERNAME}&show_icons=true&theme=merko&bg_color=00000000&hide_border=true&locale=ru"
