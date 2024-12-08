@@ -2,7 +2,7 @@ name: Update Stats
 
 on:
   schedule:
-    - cron: '0 * * * *' # Запускается каждый час
+    - cron: '0 */24 * * *' # Запускается каждые 24 часа
   workflow_dispatch:
 
 jobs:
