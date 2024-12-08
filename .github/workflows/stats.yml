@@ -20,7 +20,7 @@ jobs:
           STATS_URL="https://github-readme-stats.vercel.app/api?username=${GITHUB_USERNAME}&show_icons=true&theme=merko&bg_color=00000000&hide_border=true&locale=ru"
           STREAK_URL="https://streak-stats.demolab.com?user=${GITHUB_USERNAME}&theme=merko&hide_border=true&locale=ru&date_format=j%2Fn%5B%2FY%5D&background=00000000"
           
-          sed -i '/## Статистика/,/![](/d' README.md || true
+          sed '/## Статистика/,/![](/d' README.md || true
           
           echo "## Статистика" >> README.md
           echo "![](${STATS_URL})" >> README.md
@@ -28,8 +28,6 @@ jobs:
 
       - name: Commit changes
         run: |
-          git config --local user.email "your_email@example.com"
-          git config --local user.name "Your Name"
           git add README.md
           git commit -m "Обновление статистики"
           git push
