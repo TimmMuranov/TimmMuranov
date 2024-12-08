@@ -1,6 +1,6 @@
 # 👋 Всем Hi, I’m Тимофей.<p>
 ![snake](https://github.com/TimmMuranov/TimmMuranov/blob/output/github-contribution-grid-snake.svg)
-![stats](https://github-readme-stats.vercel.app/api?username=TimmMuranov&show_icons=true&theme=merko&bg_color=00000000&hide_border=true&locale=ru")
+
 <h2>Немного обо мне</h2>
 <h4>Родной город - Санкт-Петербург</h4>
 <h4>В IT - самоучка<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"></h4>
