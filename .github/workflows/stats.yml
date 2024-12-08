@@ -1,30 +1,36 @@
-name: Update Profile Stats
+name: Update Stats
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Каждый час
+    - cron: '0 * * * *' # Запускается каждый час
   workflow_dispatch:
 
 jobs:
-  update_stats:
+  update-stats:
     runs-on: ubuntu-latest
-    
+
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
-        
-      - name: Generate stats image
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Update README
         run: |
-          curl -o stats.svg "https://github-readme-stats.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true&theme=merko&bg_color=00000000&hide_border=true&locale=ru"
-          
-      - name: Generate streaks image
-        run: |
-          curl -o streaks.svg "https://streak-stats.demolab.com?user=${{ github.repository_owner }}&theme=merko&hide_border=true&locale=ru&date_format=j%2Fn%5B%2FY%5D&background=00000000"
-      
+          # Замените на ваш логин GitHub
+          GITHUB_USERNAME="Ваш_логин"
+
+          # Создаем URL для статуса
+          STATS_URL="https://github-readme-stats.vercel.app/api?username=${GITHUB_USERNAME}&show_icons=true&theme=merko&bg_color=00000000&hide_border=true&locale=ru"
+          STREAK_URL="https://streak-stats.demolab.com?user=${GITHUB_USERNAME}&theme=merko&hide_border=true&locale=ru&date_format=j%2Fn%5B%2FY%5D&background=00000000"
+
+          # Обновляем README.md
+          echo "## Статистика" >> README.md
+          echo "![](${STATS_URL})" >> README.md
+          echo "![](${STREAK_URL})" >> README.md
+
       - name: Commit changes
         run: |
-          git config --global user.name "${{ github.actor }}"
-          git config --global user.email "${{ github.actor }}@users.noreply.github.com"
-          git add .
-          git commit -m "Update profile stats" || echo "No changes to commit"
-          git push origin main
+          git config --local user.email "your_email@example.com"
+          git config --local user.name "Your Name"
+          git add README.md
+          git commit -m "Обновление статистики"
+          git push
