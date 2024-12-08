@@ -1,5 +1,7 @@
 # 👋 Всем Hi, I’m Тимофей.<p>
 ![snake](https://github.com/TimmMuranov/TimmMuranov/blob/output/github-contribution-grid-snake.svg)
+![GitHub Stats]
+![Streak Stats]
 
 <h2>Немного обо мне</h2>
 <h4>Родной город - Санкт-Петербург</h4>
@@ -65,9 +67,3 @@ debian, slax, tails, miniOS, OMV, ubuntu и kali а так же arch, android и
 
 [![Telegram Badge](https://img.shields.io/badge/-MuranovTim-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/TimMuranov) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:muranovtim@gmail.com)
-## Статистика
-![](https://github-readme-stats.vercel.app/api?username=Ваш_логин&show_icons=true&theme=merko&bg_color=00000000&hide_border=true&locale=ru)
-![](https://streak-stats.demolab.com?user=Ваш_логин&theme=merko&hide_border=true&locale=ru&date_format=j%2Fn%5B%2FY%5D&background=00000000)
-## Статистика
-![](https://github-readme-stats.vercel.app/api?username=TimmMuranov&show_icons=true&theme=merko&bg_color=00000000&hide_border=true&locale=ru)
-![](https://streak-stats.demolab.com?user=TimmMuranov&theme=merko&hide_border=true&locale=ru&date_format=j%2Fn%5B%2FY%5D&background=00000000)
