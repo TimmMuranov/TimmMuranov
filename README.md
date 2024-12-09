@@ -3,6 +3,8 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=TimmMuranov&show_icons=true" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimmMuranov)](https://github.com/TimmMuranov/github-readme-stats)
+
 <h2>Немного обо мне</h2>
 <h4>Родной город - Санкт-Петербург</h4>
 <h4>В IT - самоучка<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"></h4>
