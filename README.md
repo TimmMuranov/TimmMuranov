@@ -1,9 +1,9 @@
 # 👋 Всем Hi, I’m Тимофей.<p>
 ![snake](https://github.com/TimmMuranov/TimmMuranov/blob/output/github-contribution-grid-snake.svg)
 
-  <img src="https://github-readme-stats.vercel.app/api?username=TimmMuranov&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TimmMuranov&show_icons=true&theme=merko" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimmMuranov)](https://github.com/TimmMuranov/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimmMuranov&layout=donut-vertical&theme=merko)](https://github.com/TimmMuranov/github-readme-stats)
 
 <h2>Немного обо мне</h2>
 <h4>Родной город - Санкт-Петербург</h4>
