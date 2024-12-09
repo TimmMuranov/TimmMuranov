@@ -1,5 +1,6 @@
 # 👋 Всем Hi, I’m Тимофей.<p>
 ![snake](https://github.com/TimmMuranov/TimmMuranov/blob/output/github-contribution-grid-snake.svg)
+
   <img src="https://github-readme-stats.vercel.app/api?username=TimmMuranov&show_icons=true" />
 
 <h2>Немного обо мне</h2>
