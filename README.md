@@ -1,4 +1,5 @@
 # 👋 Всем Hi, I’m Тимофей.<p>
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 ![snake](https://github.com/TimmMuranov/TimmMuranov/blob/output/github-contribution-grid-snake-dark.svg)
 
 <img src="https://github-readme-stats.vercel.app/api?username=TimmMuranov&show_icons=true&theme=merko" />
