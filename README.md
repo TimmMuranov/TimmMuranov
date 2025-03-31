@@ -1,5 +1,4 @@
 # 👋 Всем Hi, I’m Тимофей.<p>
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 ![snake](https://github.com/TimmMuranov/TimmMuranov/blob/output/github-contribution-grid-snake-dark.svg)
 
@@ -7,9 +6,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimmMuranov&layout=donut-vertical&theme=merko)](https://github.com/TimmMuranov/github-readme-stats)
 
-<h2>Немного обо мне</h2>
+<h2>Немного обо мне
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
+</h2>
 <h4>Родной город - Санкт-Петербург</h4>
-<h4>В IT - самоучка<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"></h4>
 <img src="hacker.jpg">
 <hr>
 
@@ -19,19 +19,7 @@ arduino nano, uno, micro, pro mini;<p>
 esp(8266, 32);<p>
 <h4>А также с голыми камнями</h4><p>
 attiny13, stm32.
-
-#### Работал в таких программах, как arduinoIDE, AVR studio (4, 5 и 7 версии),  CodeBlocks. Также работал c компилятором GCC.
-### Мои проекты
-#### мини-сервер на esp8266
-#### Майнер duino coin-ов на базе esp8266 
-#### Стол мини 3d принтера на arduino nano под управлением джойстика.
-#### Безмониторные часы на arduino nano, показывающие время "в воздухе", работающие по принципу  вращающихся голографических дисплеев.
-#### "голографический" вращающийся дисплей на attiny13. 
-### Немного СисАдмин👩‍💻
-#### поднял облачное хранилище на ОС debian (OpenMediaVault).
-#### знаком с такими серверными инструментами, как: compose,  tailscale, nextcloud, RAID и SMART. Диски и хранилища размечаю вручную.
-#### Работал на десятке дистрибутивов linux, в основном базирующихся на debian:
-debian, slax, tails, miniOS, OMV, ubuntu и kali а так же arch, android и miui.
+ 
 <div>
 
  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="html5" alt="html5" width="40" height="40"/>
@@ -52,7 +40,7 @@ debian, slax, tails, miniOS, OMV, ubuntu и kali а так же arch, android и
 <h4>ОБОЖАЮ</h4>
 <img src="https://static.wikia.nocookie.net/terraria-calamity-mod/images/6/6e/Calamity-logo.png/revision/latest?cb=20230807142838&path-prefix=ru"><p>
 
-<h2>Занимаюсь Йоингом 🪀</h2><p>
+<h3>Занимаюсь Йоингом 🪀</h3><p>
 <hr>
 <h2>Я в интернете🤙</h2>
   <div id="badges">
@@ -71,3 +59,7 @@ debian, slax, tails, miniOS, OMV, ubuntu и kali а так же arch, android и
 
 [![Telegram Badge](https://img.shields.io/badge/-MuranovTim-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/TimMuranov) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:muranovtim@gmail.com)
+
+<hr />
+
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
