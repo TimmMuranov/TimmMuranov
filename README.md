@@ -2,8 +2,6 @@
 
 ![snake](https://github.com/TimmMuranov/TimmMuranov/blob/output/github-contribution-grid-snake-dark.svg)
 
-<img src="https://github-readme-stats.vercel.app/api?username=TimmMuranov&show_icons=true&theme=merko" />
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimmMuranov&layout=donut-vertical&theme=merko)](https://github.com/TimmMuranov/github-readme-stats)
 
 <h2>Немного обо мне
