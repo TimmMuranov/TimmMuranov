@@ -1,9 +1,6 @@
 # 👋 Всем Hi, I’m Тимофей.<p>
 
 ![snake](https://github.com/TimmMuranov/TimmMuranov/blob/output/github-contribution-grid-snake-dark.svg)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimmMuranov&layout=donut-vertical&theme=merko)](https://github.com/TimmMuranov/github-readme-stats)
-
 <h2>Немного обо мне
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 </h2>
